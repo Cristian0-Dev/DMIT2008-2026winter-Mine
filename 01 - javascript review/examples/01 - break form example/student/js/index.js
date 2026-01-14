@@ -7,4 +7,3 @@ HTML for list topic list item
 </li>
 */
 
-// test
